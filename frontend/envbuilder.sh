@@ -95,6 +95,7 @@ echo "================================================"
 echo "   Next Steps"
 echo "================================================"
 echo "1. Review the generated $OUTPUT_FILE"
-echo "2. Run the command npm start"
+echo "2. cd frontend"
+echo "3. Run the command npm start"
 echo "================================================"
 
